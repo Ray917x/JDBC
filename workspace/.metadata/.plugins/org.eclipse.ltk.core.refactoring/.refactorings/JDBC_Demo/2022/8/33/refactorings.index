@@ -1,0 +1,7 @@
+1659928877912	Rename type 'CSVDemo2'
+1659928951997	Rename type 'csvInSQL'
+1659929109280	Rename type 'CSVInSQL'
+1659929487720	Rename type 'readCSV'
+1660186480480	Extract local variable 'state'
+1660186977098	Extract local variable 'rs'
+1660187352278	Extract local variable 'executeUpdate'
